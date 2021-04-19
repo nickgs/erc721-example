@@ -1,0 +1,8 @@
+{
+    "name": "LIBC Community",
+    "description": "NFTs representing community events",
+    "image": "https://liblockchain.org/sites/default/files/LIblockchain.png",
+    "external_link": "https://liblockchain.com",
+    "seller_fee_basis_points": 100, 
+    "fee_recipient": "0x92Ce0aC59ACCA8Ec7BdC5085AA17866a5D133a6A" 
+}

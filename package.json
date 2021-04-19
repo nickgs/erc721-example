@@ -1,0 +1,25 @@
+{
+    "name": "erc20-simple",
+    "version": "1.0.0",
+    "description": "Simple example of creating your own NFT",
+    "main": "index.js",
+    "scripts": {
+        "test": "npx hardhat test"
+    },
+    "author": "Nick Selvaggio (nick@segosolutions.com)",
+    "license": "MIT",
+    "devDependencies": {
+        "@nomiclabs/hardhat-ethers": "^2.0.2",
+        "@nomiclabs/hardhat-waffle": "^2.0.1",
+        "chai": "^4.3.4",
+        "dotenv": "^8.2.0",
+        "ethereum-waffle": "^3.3.0",
+        "ethers": "^5.0.32",
+        "hardhat": "^2.1.2",
+        "hardhat-gas-reporter": "^1.0.4"
+    },
+    "dependencies": {
+        "@openzeppelin/contracts": "^4.0.0",
+        "@openzeppelin/contracts-upgradeable": "^4.0.0"
+    }
+}
